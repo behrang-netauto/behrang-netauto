@@ -1,8 +1,7 @@
-## Hi there 👋
-
 # Behrang – Network & Automation
 
 Network Engineer  
+Focused on **Network Automation with Python & Ansible**
 
 Currently focused on:  
 - Routing & Switching (BGP, OSPF, EVPN/VXLAN)  
